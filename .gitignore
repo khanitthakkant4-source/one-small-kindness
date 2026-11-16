@@ -1,0 +1,7 @@
+# image build scripts need local source files (Figma export, mooca-activities); not part of the site
+tools/
+__pycache__/
+
+# build inputs / unused art
+assets/mooca-heart-hug.svg
+assets/mooca-welcome.svg
